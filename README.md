@@ -1,3 +1,5 @@
+# This site has been abandonded, I didn't feel like paying for the domain.
+
 ![Logo](https://cdn.cottle.cloud/GitHub/LittleLink/littlelink.gif)
 
 # LittleLink
